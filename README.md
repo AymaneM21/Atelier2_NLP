@@ -23,7 +23,7 @@ The main goal of this lab is to explore and gain experience with NLP rule-based 
 - General conclusions were drawn based on the performance of each method.
 
 ## Tools Used:
-- **Google Colab** or **Kaggle** for coding and data exploration.
+- **Google Colab**/**Kaggle**/**Jupyter Notebook** for coding and data exploration.
 - **Spacy**, **NLTK**, and **Sklearn** for NLP tasks.
 - **GitLab**/**GitHub** for version control and project documentation.
 
